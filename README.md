@@ -14,6 +14,6 @@
 #### Все остальные работы можете посмотреть в моих [репозиториях](https://github.com/Re-Dnor?tab=repositories "Работы").<br>
 #### Связаться со мной можно:<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awmokshin@gmail.com "gmail")
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](tg://resolve?domain=Re_Dnor> "telegram")
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](tg://resolve?domain=ReDnor "telegram")
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+79373502907 "whatsapp")
 
