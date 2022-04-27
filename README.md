@@ -1,5 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=%23FC0FC0&size=32&lines=Hello;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+github)](https://git.io/typing-svg)
 
+
  # Меня зовут Александр <br>
  ## Я занимаюсь Front-end разработкой
 #### На текущий момент веду самостоятельное обучение.<br>
@@ -17,3 +18,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Re_Dnor "telegram")
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+79373502907 "whatsapp")
 
+![Codewars](https://www.codewars.com/users/ReDnor/badges/large)
