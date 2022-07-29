@@ -8,6 +8,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 #### Visit my [codepen](https://codepen.io/ReDnor "Codepen") to see some HTML + CSS projects.<br>
 #### Other projects with JS are located in [repositories](https://github.com/Re-Dnor?tab=repositories "Projects").<br>
 #### My contacts:<br>
