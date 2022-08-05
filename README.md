@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=FF06C5&vCenter=true&lines=Hello;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
- ## I am Front-end developer<br>
+ ## I am Frontend developer<br>
 ### Used technologies:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
