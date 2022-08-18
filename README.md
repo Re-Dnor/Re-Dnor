@@ -11,8 +11,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-#### Visit my [codepen](https://codepen.io/ReDnor "Codepen") to see some HTML + CSS projects.<br>
-#### Other projects with JS are located in [repositories](https://github.com/Re-Dnor?tab=repositories "Projects").<br>
 #### My contacts:<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awmokshin@gmail.com "gmail")
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Re_Dnor "telegram")
