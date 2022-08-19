@@ -15,4 +15,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awmokshin@gmail.com "gmail")
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Re_Dnor "telegram")
 
-![Codewars](https://www.codewars.com/users/ReDnor/badges/small)
+![Codewars](https://www.codewars.com/users/ReDnor/badges/small)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-Dnor&show_icons=true&theme=radical)
