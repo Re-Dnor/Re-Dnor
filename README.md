@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=FF06C5&vCenter=true&lines=Hello;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
- ## I am Frontend developer<br>
-### Used technologies:<br>
+ # I am Frontend developer<br>
+## Used technologies:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
@@ -11,7 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-#### My contacts:<br>
+## My contacts:<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awmokshin@gmail.com "gmail")
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Re_Dnor "telegram")
 
